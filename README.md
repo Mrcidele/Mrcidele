@@ -3,12 +3,12 @@
   <tr>
     <td valign="top">
       <a href="https://github.com/mrcidele">
-        <img alt="Estatísticas do GitHub de mrcidele" src="https://github-readme-stats.vercel.app/api?username=mrcidele&show_icons=true&theme=dark" />
+        <img alt="Estatísticas do GitHub de mrcidele" src="https://github-stats-extended.vercel.app/api?username=mrcidele&show_icons=true&theme=dark" />
       </a>
     </td>
     <td valign="top">
       <a href="https://github.com/mrcidele">
-        <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcidele&layout=compact&theme=dark" />
+        <img alt="Linguagens mais usadas" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrcidele&layout=compact&theme=dark" />
       </a>
     </td>
   </tr>
