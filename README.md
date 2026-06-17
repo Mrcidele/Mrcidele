@@ -5,7 +5,7 @@
     <td valign="top">
       <a href="https://github.com/mrcidele">
         <img alt="Estatísticas do GitHub de mrcidele" 
-             src="https://github-readme-stats.vercel.app/api?username=mrcidele&show_icons=true&theme=dark" />
+             src="https://github-readme-stats.vercel.app/api?username=mrcidele&show_icons=true&theme=dark&hide_rank=true" />
       </a>
     </td>
     <td valign="top">
@@ -27,4 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="30" />
-<img src="https://raw.githubusercontent.com/d
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="30" />
+</p>
