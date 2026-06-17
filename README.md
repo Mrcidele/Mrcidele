@@ -5,7 +5,7 @@
     <td valign="top">
       <a href="https://github.com/mrcidele">
         <img alt="Estatísticas do GitHub de mrcidele" 
-             src="https://github-readme-stats.vercel.app/api?username=mrcidele&show_icons=true&theme=dark&rank_icon=letter" />
+             src="https://github-readme-stats.vercel.app/api?username=mrcidele&show_icons=true&theme=dark" />
       </a>
     </td>
     <td valign="top">
