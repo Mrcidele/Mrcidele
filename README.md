@@ -1,12 +1,11 @@
 # Oi eu sou o Caio Tsutiya Marcidele 👋
+
 <table align="center">
   <tr>
-<td valign="top">
-  <a href="https://github.com/mrcidele">
-    <img alt="Estatísticas do GitHub de mrcidele" 
-         src="https://github-readme-stats.vercel.app/api?username=mrcidele&show_icons=true&theme=dark&rank_icon=letter&include_all_commits=true" />
-  </a>
-</td>
+    <td valign="top">
+      <a href="https://github.com/mrcidele">
+        <img alt="Estatísticas do GitHub de mrcidele" 
+             src="https://github-readme-stats.vercel.app/api?username=mrcidele&show_icons=true&theme=dark&rank_icon=letter&include_all_commits=true" />
       </a>
     </td>
     <td valign="top">
@@ -19,7 +18,6 @@
 </table>
 
 ### Conhecimentos e Tecnologias:
-
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="30" />
